@@ -12,10 +12,11 @@ body {
 
 @media (min-width: 992px) {
  body {
-  font-family: 'Tangerine', serif;
-  font-size: 48px;
-  text-shadow: 4px 4px 4px #aaa;
-}
+  font-family: 'Noto Sans TC', sans-serif;}
+  body {
+    padding-top: 0;
+    padding-left: 17rem;
+  }
 }
 
 h1,

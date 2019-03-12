@@ -12,6 +12,8 @@ body {
 
 @media (min-width: 992px) {
   body {
+    font-family: 'Noto Sans', sans-serif;}
+    body {
     padding-top: 0;
     padding-left: 17rem;
   }

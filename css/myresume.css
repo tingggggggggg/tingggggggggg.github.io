@@ -1,14 +1,18 @@
-body {
- font-family: 'Noto Sans TC', sans-serif;
-}
-h1,h2,h3,h4,h5,h6{
+body{
 font-family: 'Noto Sans TC', sans-serif;
-txet-transform: none;
 }
-.subheading{
-font-family: 'Noto Sans TC', sans-serif;
-txet-transform: none;
-font-size:1.2rem;
-letter-spacing:-0.05rem;
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Noto Sans TC', sans-serif; 
+  text-transform: none;
 }
-h1.text-primry{
+.subheading {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 1.2rem;
+  text-transform:none;
+  letter-spacing:-0.05rem;
+}
+h1 .text-primary {
+ font-size: 3rem;
+ letter-spacing: -0.05rem;
+ line-height: 3rem;
+}

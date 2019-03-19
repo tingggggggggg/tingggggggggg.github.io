@@ -15,10 +15,7 @@ h1 .text-primary {
  font-size: 3rem;
  letter-spacing: -0.05rem;
  line-height: 3rem;
-.bg-primary{
-  background-color:green!important;
-  }
-body { background-image: url("yp.jpg"); 
+ background-image: url("yp.jpg"); 
   background-repeat: no-repeat; 
   background-position: center center; 
 }

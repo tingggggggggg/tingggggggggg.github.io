@@ -20,7 +20,9 @@ h1 .text-primary {
   margin-top:3rem;
 }
 .bg-primary{ 
-background-color:#D8BFD8!important;
-  background-image:url("img/img-noise-361x370.png");
+background-color:#37404a!important;
+  background-image:url("background-color: #37404a;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */");
 }
 

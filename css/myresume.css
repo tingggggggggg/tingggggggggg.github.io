@@ -15,6 +15,7 @@ h1 .text-primary {
  font-size: 3rem;
  letter-spacing: -0.05rem;
  line-height: 3rem;
+ color:	#696969!important;
 }
 .graphset{
   margin-top:3rem;
@@ -23,3 +24,4 @@ h1 .text-primary {
 background-color:#37404a!important;
 background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
 }
+

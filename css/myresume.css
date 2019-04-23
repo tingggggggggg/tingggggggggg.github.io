@@ -40,5 +40,9 @@ a:active, a:focus, a:hover {
 .dev-icons .list-inline-item i:hover {
     color: #696969;
 }
+.span.text-primary{
+	color:#2F4F4F!important;
+}
+		
 
 

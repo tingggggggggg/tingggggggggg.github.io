@@ -17,6 +17,9 @@ h1 .text-primary {
  line-height: 3rem;
  color:	#696969!important;
 }
+h2.text-primary{
+	color:#2F4F4F!important;
+}
 .graphset{
   margin-top:3rem;
 }
@@ -40,9 +43,7 @@ a:active, a:focus, a:hover {
 .dev-icons .list-inline-item i:hover {
     color: #696969;
 }
-.span.text-primary{
-	color:#2F4F4F!important;
-}
+
 		
 
 
